@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Praveen
-- 👀 I’m interested in Php, Rust, Linux...
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on ELG-Foundation/Hosptial-Management
-- 📫 How to reach me praveen@elg.foundation
+# Hi there! 👋 I'm Praveen
 
-<!---
-ELG-Praveen/ELG-Praveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a Linux Distro. Currently working on MAKT Solution PVT.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** [Php, Tailwind, Bootstrap, Javascript, Rust, Python]
+- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind & Bootstrap, Vue JS]
+- **Databases:** [Mysql, Mongodb, Sqlite3]
+- **Tools:** [Vs-Codium, Waterfox, Pytorch]
+
+## 🚀 Projects
+
+### Hosptial-Management
+- Hospital Management is an open-source project
+- Laravel, Tailwind, JS, Livewire, Filament
+- ![View Demo](https://github.com/ELG-Foundation/Hospital-Management)
+
+## 🌱 I'm Currently Learning
+
+- Laravel/Php
+- Pytorch/Python
+
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=end3r-man&show_icons=true&theme=radical)
+
+Thanks for stopping by! Feel free to explore my projects and reach out if you have any questions or collaboration ideas.
