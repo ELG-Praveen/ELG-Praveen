@@ -25,7 +25,6 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=end3r-man&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=end3r-man&)
 
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you have any questions or collaboration ideas.
