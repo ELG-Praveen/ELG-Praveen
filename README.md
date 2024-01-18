@@ -4,9 +4,9 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [Php, Tailwind, Bootstrap, Javascript, Rust, Python]
-- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind & Bootstrap, Vue JS]
-- **Databases:** [Mysql, Mongodb, Sqlite3]
+- **Languages:** [Php, Rust, Bash, Tailwind, Javascript, Python, Lua]
+- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind & Bootstrap, Vue JS, Alpine Js, Rocket, ]
+- **Databases:** [Mysql, Mongodb, Sqlite3, Sunrreal Db]
 - **Tools:** [Vs-Codium, Waterfox, Pytorch]
 
 ## 🚀 Projects
