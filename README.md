@@ -11,15 +11,18 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 
 ## 🚀 Projects
 
+### Invoice-Management
+- Invoice Management is an open-source project
+- Laravel, Livewire, Alpine Js, Tailwind.
+
 ### Hosptial-Management
 - Hospital Management is an open-source project
-- Laravel, Tailwind, Alpine Js, Livewire, Filament
-- ![View Demo](https://github.com/ELG-Foundation/Hospital-Management)
+- Laravel, Tailwind, Alpine Js, Livewire, Filament.
 
 ## 🌱 I'm Currently Learning
 
-- Laravel/Php
-- Pytorch/Python
+- Livewire/Php
+- Alpinejs/Javascript
 
 
 ## 📈 GitHub Stats
