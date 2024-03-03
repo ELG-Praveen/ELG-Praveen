@@ -1,11 +1,11 @@
 # Hi there! 👋 I'm Praveen
 
-I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a Linux Distro. Currently working on MAKT Solution PVT.
+I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a Linux Distro. Currently working on MAKT Solution PVT. I Use Arch BTW....
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [Php, Rust, Bash, Tailwind, Javascript, Python, Lua]
-- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind & Bootstrap, Vue JS, Alpine Js, Rocket]
+- **Languages:** [Php, Rust, Bash, HTML, Javascript, Python, Lua, GDScript]
+- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind & Bootstrap, Vue JS, Alpine Js, Rocket, Godot]
 - **Databases:** [Mysql, Mongodb, Sqlite3, Sunrreal Db]
 - **Tools:** [Vs-Codium, Waterfox, Pytorch]
 
