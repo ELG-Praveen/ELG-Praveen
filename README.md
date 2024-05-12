@@ -11,8 +11,12 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 
 ## 🚀 Projects
 
+### Discord Bot
+- Naan a moder Bot for community server.
+- laracord, livewire, alpinejs.
+
 ### Invoice-Management
-- Invoice Management is an open-source project
+- Invater is an open-source invoice manager.
 - Laravel, Livewire, Alpine Js, Tailwind.
 
 ### Hosptial-Management
