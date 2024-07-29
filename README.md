@@ -4,12 +4,16 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** [Php, Rust, Bash, HTML, Javascript, Python, Lua, GDScript]
-- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind & Bootstrap, Vue JS, Alpine Js, Rocket, Godot]
-- **Databases:** [Mysql, Mongodb, Sqlite3, Sunrreal Db]
+- **Languages:** [Php, Rust, Bash, HTML, Javascript, Lua, GDScript]
+- **Frameworks & Libraries:** [Laravel, Codeigniter, Tailwind, Vue JS, Alpine Js, Rocket, Godot]
+- **Databases:** [Mysql, Sqlite3, Surreal Db]
 - **Tools:** [Vs-Codium, Waterfox, Pytorch]
 
 ## 🚀 Projects
+
+### WhileHole
+- NustJs based android music player.
+- Nuxtjs, Capacitorjs, Tailwind.
 
 ### Discord Bot
 - Naan a moder Bot for community server.
