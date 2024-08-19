@@ -12,7 +12,7 @@ I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a
 ## 🚀 Projects
 
 ### WhileHole
-- NustJs based android music player.
+- NuxtJs based android music player.
 - Nuxtjs, Capacitorjs, Tailwind.
 
 ### Discord Bot
