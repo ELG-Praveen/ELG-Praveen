@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Praveen
 
-I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a Linux Distro. Currently working on MAKT Solution PVT. I Use Arch BTW....
+I'm a passionate Web & Linux Dev with expertise in Linux. My goal is to create a Linux Distro. I Use Arch BTW....
 
 ## 🔧 Technologies & Tools
 
